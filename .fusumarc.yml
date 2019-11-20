@@ -1,0 +1,22 @@
+meta:
+  title: Doe eens Docker Dag
+  thumbnail:
+  description: Docker workshop voor Team FinControl
+  sns: []
+slide:
+  loop: false
+  sidebar: true
+  targetBlank: true
+  showIndex: true
+  isVertical: false
+  code:
+    languages:
+      - docker
+  chart: true
+  math: false
+extends:
+  js: ./index.js
+  css: ./style.css
+  webpack:
+build:
+  ssr: true

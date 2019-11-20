@@ -1,0 +1,27 @@
+{
+  "name": "kuber.netes",
+  "version": "1.0.0",
+  "description": "Workshop Kubernetes voor FinControl",
+  "private": true,
+  "scripts": {
+    "init": "fusuma init",
+    "start": "fusuma start",
+    "build": "fusuma build",
+    "live": "fusuma live",
+    "deploy": "fusuma deploy",
+    "pdf": "fusuma pdf"
+  },
+  "author": "Rik Harink",
+  "license": "MIT",
+  "devDependencies": {
+    "fusuma": "^1.15.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2",
+    "panzoom": "^8.6.1",
+    "plantuml-encoder": "^1.4.0",
+    "react-rough": "^2.0.0-beta.4",
+    "roughjs": "^3.1.0",
+    "spotlight-canvas": "^1.2.0"
+  }
+}
