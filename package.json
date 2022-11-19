@@ -14,7 +14,7 @@
   "author": "Rik Harink",
   "license": "MIT",
   "devDependencies": {
-    "fusuma": "^1.15.0"
+    "fusuma": "^2.8.4"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.11.2",
